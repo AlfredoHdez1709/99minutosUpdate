@@ -1,9 +1,9 @@
 {
     "app":{
-        "versionCode":40,
+        "versionCode":41,
         "versionName":"1.0",
-        "priority":"0",
-        "note":"bug fixed",
+        "priority":"1",
+        "note":"bug fixed \n mejoras en notificaciones \n cambios en GPS",
         "downloadURL":"https://play.google.com/store/apps/details?id=com.app99minutos.app99minutos"
     }
 }
