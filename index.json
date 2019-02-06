@@ -2,7 +2,7 @@
     "app":{
         "versionCode":62,
         "versionName":"1.0",
-        "priority":"0",
+        "priority":"1",
         "note":"bug fixed \n mejoras en notificaciones \n cambios en GPS",
         "downloadURL":"https://play.google.com/store/apps/details?id=com.app99minutos.app99minutos"
     }
